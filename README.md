@@ -15,5 +15,3 @@ Other movie meta-data :
 genres, release year, IMDB rating, number of IMDB votes
 Data Source:
 http://www:cs:cornell:edu/~cristian/Cornell Movie-Dialogs Corpus:html
-
-I have trained this model and attached my model.h5 file you can download and test it or modify it.
